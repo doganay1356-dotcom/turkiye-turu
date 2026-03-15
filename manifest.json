@@ -1,0 +1,13 @@
+{
+  "background_color": "#0d1b2a",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Türkiye Turu",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "TürkiyeTuru",
+  "start_url": "/",
+  "theme_color": "#e63946",
+  "id": "turkiye-turu",
+  "description": "Türkiye'nin 81 ilini gez, soruları cevapla, şehirleri fethet! Eğlenceli bilgi yarışması oyunu."
+}
