@@ -1,0 +1,35 @@
+{
+  "name": "Türkiye Turu",
+  "short_name": "TürkiyeTuru",
+  "id": "turkiye-turu",
+  "description": "Türkiye'nin 81 ilini gez, soruları cevapla, şehirleri fethet! Eğlenceli bilgi yarışması oyunu.",
+  "start_url": "/turkiye-turu/turkiye-turu.html",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#e63946",
+  "orientation": "portrait",
+  "scope": "/turkiye-turu/",
+  "lang": "tr",
+  "categories": ["games", "education"],
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/doganay1356-dotcom/turkiye-turu/main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/doganay1356-dotcom/turkiye-turu/main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ]
+}
